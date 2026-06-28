@@ -1,7 +1,7 @@
 import { Experience, Project, SkillCategory, Certification } from './types';
 
 // Static asset imports representing generated assets
-import khushiPhoto from './assets/images/khushi_sharma_1782645741212.jpg';
+import khushiPhoto from './assets/images/regenerated_image_1782648526206.png';
 import mutualFundPhoto from './assets/images/mutual_fund_dashboard_1782644288595.jpg';
 import superSalesPhoto from './assets/images/super_sales_dashboard_1782644307497.jpg';
 import trendingJobsPhoto from './assets/images/trending_jobs_dashboard_1782644325286.jpg';
